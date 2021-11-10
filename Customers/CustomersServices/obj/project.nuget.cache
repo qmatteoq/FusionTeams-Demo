@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCHIPI8Is+tSKtzsRBZ+1dHYJqWIusl1ldA/K6QLsli+ggwDGsr56ii0u/DIJjIRsr8rFdkATmVXAKE39XIaQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mpagani\\Source\\Events\\Fusion\\Customers\\CustomersServices\\CustomersServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mpagani\\.nuget\\packages\\bogus\\33.1.1\\bogus.33.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
