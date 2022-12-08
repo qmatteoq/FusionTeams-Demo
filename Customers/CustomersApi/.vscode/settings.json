@@ -1,5 +1,0 @@
-{
-    "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/8a95ce7f-501b-417c-9bf6-f66e7a3afba8/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/fusion-customers-api"
-}
