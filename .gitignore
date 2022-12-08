@@ -351,3 +351,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/Customers/.vs/CustomersApi/v17/.suo
+/Customers/.vs/CustomersApi/DesignTimeBuild/.dtbcache.v2
